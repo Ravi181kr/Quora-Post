@@ -1,5 +1,6 @@
 # Quora Post  
-By using NodeJs and express, I build a twitter like platform where we post tweet in text format and we can also **add, edit and delete posts.**  
+**-->** By using **NodeJs and express**, I build a twitter like platform where we post tweet in text format and we can also **add, edit and delete posts.**    
+**-->** This project implements **CRUD** operation by the use of **RESTful API's**   
 In this we use the following dependencies:-   
   • Express --> for backend   
   • ejs(Embedded JavaScript) --> for views/template   
@@ -12,5 +13,5 @@ To Run :-
   **Step 3:** node index.js  --> to start server   
   **Step 4:** Open browser and enter in url : http://localhost:8080/posts  
    
-  **Screenshot**  
+  **Screenshot:**  
   <img width="1913" height="866" alt="Screenshot 2026-05-26 205257" src="https://github.com/user-attachments/assets/5938d68e-5d13-4094-8e42-c7db91d1ed9c" />
